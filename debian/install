@@ -1,0 +1,9 @@
+emisorHUMO.py usr/share/TierraLuna
+juego.py usr/share/TierraLuna
+README.mp usr/share/TierraLuna
+Tentacles.ttf usr/share/TierraLuna
+imagenes/* usr/share/TierraLuna/imagenes
+musica/* usr/share/TierraLuna/musica
+debian/tierraluna.desktop /usr/share/applications
+debian/tierraluna.svg /usr/share/icons/hicolor/scalable/apps
+

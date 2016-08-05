@@ -1,0 +1,14 @@
+Source: tierraluna
+Section: Juegos
+Priority: extra
+Maintainer: Diego Accorinti <diegoacco@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), nodejs, nodejs-legacy, npm, git
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/TierraLuna
+Vcs-Browser: https://github.com/HuayraLinux/TierraLuna
+Vcs-Git: https://github.com/HuayraLinux/TierraLuna.git
+
+Package: tierraluna
+Architecture: all
+Depends: huayra-pilas
+Description: Un juego de resistencia. Un viaje hacia la luna donde aprenderás mucho, si logras llegar.

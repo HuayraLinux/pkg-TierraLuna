@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=TierraLuna
+Comment=Comment
+Exec=/usr/bin/TierraLuna
+Terminal=false
+Type=Application
+Icon=tierraluna
+Categories=GNOME;GTK;Huayra;Juegos
+Name[es_AR]=TierraLuna
