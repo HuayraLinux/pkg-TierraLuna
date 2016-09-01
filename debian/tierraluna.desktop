@@ -1,10 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=TierraLuna
-Comment=Comment
-Exec=/usr/bin/TierraLuna
+Comment=Juego de viaje a la luna
+Exec=/usr/games/TierraLuna
 Terminal=false
 Type=Application
 Icon=tierraluna
-Categories=GNOME;GTK;Huayra;Juegos
+Categories=GNOME;GTK;Huayra;Game;
+Keywords=Tierra Luna;Juego;Pilas;
 Name[es_AR]=TierraLuna

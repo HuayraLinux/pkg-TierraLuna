@@ -1,9 +1,77 @@
+tierraluna (0.0.13-1) unstable; urgency=medium
+
+  * Diego Accorinti <diegoacco@gmail.com>
+
+ -- Alumno <alumno@huayra>  Mon, 29 Aug 2016 11:06:59 -0300
+
+tierraluna (0.0.12-2) unstable; urgency=medium
+
+  * Prueba empaquetado 2
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 29 Aug 2016 10:59:15 -0300
+
+tierraluna (0.0.12-1) unstable; urgency=medium
+
+  * prueba empaquetado 1
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 29 Aug 2016 10:42:12 -0300
+
+tierraluna (0.0.11-1) unstable; urgency=medium
+
+  * cambios menores
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 29 Aug 2016 10:12:14 -0300
+
+tierraluna (0.0.10-1) unstable; urgency=medium
+
+  * Pantalla FINAL
+  * 5 niveles distintos
+ 
+ -- Diego Accorinti <diegoacco@gmail.com>  Fri, 26 Aug 2016 16:45:12 -0300
+
+tierraluna (0.0.9-1) unstable; urgency=medium
+
+  * Musica 
+  * leyendas
+  * textos externos
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Fri, 12 Aug 2016 16:57:27 -0300
+
+tierraluna (0.0.8-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+ 
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 08 Aug 2016 16:11:14 -0300
+
+tierraluna (0.0.7-1) unstable; urgency=medium
+
+  * prueba
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 08 Aug 2016 16:00:07 -0300
+
+tierraluna (0.0.5-1) unstable; urgency=medium
+
+  * prueba empaquetado
+
+ -- Diego Accorinti <diegoacco@gmail.com>Diego Accorinti <diegoacco@gmail.com>  Mon, 08 Aug 2016 12:15:22 -0300
+
+tierraluna (0.0.4-2) unstable; urgency=medium
+
+  * prueba 
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 08 Aug 2016 12:10:11 -0300
+
+tierraluna (0.0.4-1) unstable; urgency=medium
+
+  * se agregó manpage
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 08 Aug 2016 11:32:20 -0300
+
 tierraluna (0.0.3-1) unstable; urgency=medium
 
   * release 2 
 
-
- -- Alumno <alumno@huayra>  Thu, 04 Aug 2016 15:31:24 -0300
+ -- Diego Accorinti <diegoacco@gmail.com>  Thu, 04 Aug 2016 15:31:24 -0300
 
 tierraluna (0.0.2) UNSTABLE; urgency=medium
 
