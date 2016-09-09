@@ -11,5 +11,5 @@ Vcs-Git: https://github.com/HuayraLinux/TierraLuna.git
 Package: tierraluna
 Architecture: all
 Depends: ${misc:Depends}, python-pilas
-Description: Un juego de viaje hacia la luna
+Description: Un juego de viaje hasta la luna
  aprenderás mucho, si logras llegar.
