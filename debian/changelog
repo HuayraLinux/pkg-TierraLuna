@@ -1,3 +1,9 @@
+tierraluna (0.1.5-1) unstable; urgency=medium
+
+  * fix utf8-codec
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Tue, 13 Sep 2016 16:35:17 -0300
+
 tierraluna (0.1.4-1) unstable; urgency=medium
 
   * fix lanzador
