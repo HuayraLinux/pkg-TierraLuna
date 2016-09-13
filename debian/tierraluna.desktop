@@ -1,8 +1,9 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
-Version=0.1.1
+Version=0.1.4
 Name=TierraLuna
 Comment=Juego de viaje a la luna
-Exec=/usr/games/tierraluna
+Exec=tierraluna
 Terminal=false
 Type=Application
 Icon=tierraluna
