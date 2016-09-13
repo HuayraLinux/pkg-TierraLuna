@@ -9,3 +9,4 @@ imagenes/* usr/share/games/TierraLuna/imagenes
 data/* usr/share/games/TierraLuna/data
 debian/tierraluna.desktop /usr/share/applications
 debian/tierraluna.svg /usr/share/icons/hicolor/scalable/apps
+tierraluna usr/games/
