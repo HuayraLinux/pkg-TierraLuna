@@ -1,3 +1,11 @@
+tierraluna (0.1.7-1) unstable; urgency=medium
+
+  * Jugar de nuevo al perder
+  * FIX del launcher menu (error utf-8) final
+  * cambio texto final (sin vida x exánime)
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Wed, 14 Sep 2016 13:10:18 -0300
+
 tierraluna (0.1.6-1) unstable; urgency=medium
 
   * fix utf8-codec 2
