@@ -1,3 +1,9 @@
+tierraluna (0.1.8-1) unstable; urgency=medium
+
+  * fix detener música al perder 
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Wed, 14 Sep 2016 14:43:35 -0300
+
 tierraluna (0.1.7-1) unstable; urgency=medium
 
   * Jugar de nuevo al perder
