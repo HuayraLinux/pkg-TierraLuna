@@ -1,3 +1,9 @@
+tierraluna (0.1.9-1) unstable; urgency=medium
+
+  * fix menor 
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Thu, 15 Sep 2016 11:18:29 -0300
+
 tierraluna (0.1.8-1) unstable; urgency=medium
 
   * fix detener música al perder 
